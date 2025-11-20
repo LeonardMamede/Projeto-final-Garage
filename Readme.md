@@ -136,6 +136,7 @@ Acesso ao site que foi publicado no Git Pages:
 
 https://leonardmamede.github.io/Projeto-final-Garage/ 
 
+<img width="1564" height="876" alt="image" src="https://github.com/user-attachments/assets/187cf1a1-b550-45ce-9971-36df3f0013fd" />
 
 
 Data de publicação: 12/11/2025 
