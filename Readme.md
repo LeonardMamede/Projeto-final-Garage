@@ -49,8 +49,7 @@ R. Na parte de ofertas interativas.
 
 PARTE 2
 
-Garage Detail, lava jato com serviço apenas precencial e com o avanço do e-commerce, a empresa pretende fortalecer sua presença, conquistar novos clientes e expandir suas operações para áreas vizinhas com a ajuda do site
- desenvolvido por Leonardo E. Mamede da Silva e Letícia Francisca de Moura e Silva.
+
 
 O site foi aberto no DevTools e está funcionando perfeitamente em todas as resoluções de tela
 Não houve quebra no layout
